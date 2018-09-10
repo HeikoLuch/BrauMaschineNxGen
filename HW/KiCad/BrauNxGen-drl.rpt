@@ -1,0 +1,36 @@
+Drill report for C:\Users\Heiko\git\BrauMaschineNxGen\HW\KiCad\BrauNxGen.kicad_pcb
+Created on 07.09.2018 18:34:09
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'BrauNxGen.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,40mm  0,016"  (15 holes)
+    T2  0,50mm  0,020"  (9 holes)
+    T3  0,76mm  0,030"  (50 holes)
+    T4  0,80mm  0,031"  (12 holes)
+    T5  0,90mm  0,035"  (6 holes)
+    T6  0,95mm  0,037"  (8 holes)
+    T7  1,00mm  0,039"  (29 holes)
+    T8  1,02mm  0,040"  (30 holes)
+    T9  1,02mm  0,040"  (12 holes)
+    T10  1,10mm  0,043"  (6 holes)
+    T11  1,20mm  0,047"  (2 holes)
+    T12  1,20mm  0,047"  (26 holes)
+    T13  3,05mm  0,120"  (1 hole)
+    T14  3,20mm  0,126"  (3 holes)
+
+    Total plated holes count 209
+
+
+Drill file 'BrauNxGen-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1,85mm  0,073"  (4 holes)
+
+    Total unplated holes count 4
